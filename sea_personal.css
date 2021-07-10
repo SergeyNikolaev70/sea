@@ -1,0 +1,90 @@
+
+#t_data {
+  background: #505050;
+  width : 100%;
+  color: white;
+ }
+
+#fio_div_main {
+  width : 100%;
+}
+
+#t_data_div {
+  overflow: auto;
+  height: 80%;
+}
+
+#t_data_head {
+  background: gray;
+  color: white;
+  text-align: center;
+}
+
+#t_data_body {
+
+}
+
+.t_data_body_record {
+  text-align: left;
+}
+
+#fio_inline {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  color: white;
+  background: #3176CA;
+
+  padding : 5px;
+}
+
+#fio_inline_family {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  color: white;
+  background: #3176CA;
+
+  padding : 5px;
+}
+
+#fio_inline_date {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  color: white;
+  background: #3176CA;
+
+  padding : 5px;
+}
+
+#fio_inline div {
+ margin-left : 15px;
+ margin-right : 5px;
+}
+
+#fio_inline button {
+ margin-left : 15px;
+}
+
+#fio_inline #tabel_save {
+ margin-left : 10px;
+}
+
+#fio_inline #tabel_clear {
+ margin-left : 35px;
+}
+
+#fio_block {
+
+ display: flex;
+ flex-direction: column;
+
+}
+

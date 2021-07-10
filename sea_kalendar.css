@@ -1,0 +1,65 @@
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#kalendar_div_main {
+  width : 100%;
+}
+
+.kalendar_block {
+
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+.kalendar_inline {
+
+  display: flex;
+  color: white;
+  padding: 5px;
+}
+
+#t_data_body {
+  text-align: center;
+}
+
+.kalendar_input_label {
+  margin-left : 10px;
+  margin-right : 5px;
+}
+
+#kalendar_clear {
+  margin-left : 10px;
+}
+
+#kalendar_save {
+  margin-left : 10px;
+}
+
+#t_data_kalendar {
+  background: #505050;
+  justify-content: center;
+  color: white;
+ }
+
+#t_data_kalendar_div {
+  display: flex;
+  justify-content: center;
+  height: 85%;
+  overflow: auto;
+}
+

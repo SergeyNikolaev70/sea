@@ -1,0 +1,60 @@
+
+body {
+ background : #2D65AA;
+ overflow: hidden;
+ height: 100%;
+}
+
+._selected_ {
+ background : #9821AD;
+}
+
+#menu_general {
+ 
+  padding : 20px;
+  margin :  auto;
+}
+
+#menu_general button {
+ 
+  height : 50px;
+  width : 100%;
+  overflow : hidden;
+  font-size: 17;
+
+}
+
+#menu_general td {
+   padding : 1px;
+}
+
+#menu {
+  display : flex;
+}
+
+#menu button {
+ 
+  height : 50px;
+  overflow : hidden;
+  font-size: 17;
+  text-align : left;
+  white-space : nowrap;
+}
+
+#task_name {
+  width : 100%;
+  text-align : center;
+  font-size: 27;
+  color: white;
+  background: #4785CF;
+  padding : 2px;
+}
+
+.t_data_body_fio {
+  text-align: left;
+}
+
+.t_column_sum {
+  background: green;
+}
+

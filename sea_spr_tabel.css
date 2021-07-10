@@ -1,0 +1,63 @@
+
+#t_data_spr_tabel {
+  background: #505050;
+  color: white;
+ }
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#spr_tabel_div_main {
+
+}
+
+.spr_tabel_block {
+
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+.spr_tabel_inline {
+
+  display: flex;
+  color: white;
+  padding: 5px;
+}
+
+.spr_tabel_input_label {
+  margin-left : 10px;
+  margin-right : 5px;
+}
+
+#spr_tabel_clear {
+  margin-left : 10px;
+}
+
+#spr_tabel_save {
+  margin-left : 10px;
+}
+
+#spr_tabel_divx {
+  display: flex;
+  justify-content: center;
+}
+
+#t_data_spr_tabel_head {
+  background: gray;
+  color: white;
+  text-align: center;
+}

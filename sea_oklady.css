@@ -1,0 +1,51 @@
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#oklady_div_main {
+  width : 100%;
+}
+
+.oklady_block {
+
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+.oklady_inline {
+
+  display: flex;
+  color: white;
+  padding: 5px;
+}
+
+#_t_data_body {
+  text-align: center;
+}
+
+.oklady_input_label {
+  margin-left : 10px;
+  margin-right : 5px;
+}
+
+#oklady_clear {
+  margin-left : 10px;
+}
+
+#oklady_save {
+  margin-left : 10px;
+}

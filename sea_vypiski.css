@@ -1,0 +1,110 @@
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#vypiski_div_main {
+  width : 100%;
+}
+
+.vypiski_block {
+ display: flex;
+ justify-content: center;
+}
+
+#vypiski_block {
+ display: flex;
+ justify-content: center;
+}
+
+#vypiski_block_t1 {
+  color: black;
+  background: white;
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+.vypiski_inline {
+
+  display: flex;
+  color: white;
+  padding: 5px;
+  justify-content: center;
+}
+
+#t_data_body {
+  text-align: center;
+}
+
+.vypiski_input_label {
+  margin-left : 10px;
+  margin-right : 5px;
+}
+
+#vypiski_clear {
+  margin-left : 10px;
+}
+
+#vypiski_save {
+  margin-left : 10px;
+}
+
+#t_data_vypiski {
+  background: #505050;
+  justify-content: center;
+  color: white;
+ }
+
+#t_data_vypiski_div {
+  display: flex;
+  justify-content: center;
+}
+
+#vypiska_table {
+  color: black;
+  background: white;
+}
+
+.vypiska_td {
+  color: black;
+  background: white;
+}
+
+.vypiska_body {
+  color: black;
+  background: white;
+}
+.t_data_body_record_vypiski {
+  background: white;
+  margin-left: 1px;
+  margin-top: 1px;
+}
+.vypiski_field {
+  background: white;
+}
+
+.vo_block_t_ {
+ 
+  display: flex; 
+  flex-direction: row; 
+  justify-content: center;
+  background: white;
+}
+.otpuski_block_t_ {
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+#vo_block_t_total {
+  height: 85%;
+  overflow: auto;
+}

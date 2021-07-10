@@ -1,0 +1,63 @@
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#nachisl_na_fzp_cfg_div_main {
+  width : 100%;
+}
+
+#nachisl_na_fzp_cfg_block {
+
+ display: flex;
+ justify-content: center;
+  
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+#nachisl_na_fzp_cfg_inline {
+  
+  display: flex;
+  justify-content: center;
+
+  color: white;
+  margin-right: 10px;
+
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+#nachisl_na_fzp_cfg_inline {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  color: white;
+}
+
+#hours_div {
+ margin-top: 10px;
+ margin-bottom: 10px;
+ margin-left: 40px;
+}
+
+#hours_input {
+ margin-top: 10px;
+ margin-bottom: 10px;
+ width: 40px;
+}
+
+#t_data_body {
+  text-align: center;
+}

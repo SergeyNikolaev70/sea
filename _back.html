@@ -1,0 +1,43 @@
+
+
+<html>
+      <head>
+          <link href="sea.css" rel="stylesheet">
+      </head> 
+
+  <body>
+
+          <button data-action="menu">Μενώ</button>
+
+    <script language="javascript"> 
+
+      function Menu(menu1) {
+
+        this.menu=function() {
+           window.open('sea.html', '_self');
+
+            alert("menu");
+        };
+        
+
+        let slf=this;
+
+        menu1.onclick=function(event1) {
+
+             let trgt=event1.target;
+             let action1=trgt.getAttribute('data-action');
+             
+             if (action1) {
+                slf[action1]();
+             }
+        }
+
+      };
+
+      new Menu(menu);
+
+    </script>
+
+  </body>
+
+</html>

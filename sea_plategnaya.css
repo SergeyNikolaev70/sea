@@ -1,0 +1,200 @@
+
+#record_id {
+  width : 100%;
+  flex-direction: row;
+
+  color: white;
+}
+
+#plategnaya_div_main {
+
+}
+
+.plategnaya_block {
+ display: flex;
+ justify-content: center;
+}
+
+#plategnaya_block {
+ display: flex;
+ justify-content: center;
+}
+
+#plategnaya_block_t1 {
+  color: black;
+  background: white;
+}
+
+#input_date_from {
+ margin-right: 10px;
+}
+
+#input_date_to {
+ margin-right: 10px;
+}
+
+.plategnaya_inline {
+
+  display: flex;
+  color: white;
+  padding: 5px;
+  justify-content: center;
+}
+
+.plategnaya_input_label {
+  margin-left : 10px;
+  margin-right : 5px;
+}
+
+#plategnaya_clear {
+  margin-left : 10px;
+}
+
+#plategnaya_save {
+  margin-left : 10px;
+}
+
+#t_data_vypiski {
+  background: #505050;
+  justify-content: center;
+  color: white;
+ }
+
+#t_data_plategnaya_div {
+  display: flex;
+  justify-content: center;
+}
+
+#vypiska_table {
+  color: black;
+  background: white;
+}
+
+.vypiska_td {
+  color: black;
+  background: white;
+}
+
+.vypiska_body {
+  color: black;
+  background: white;
+}
+.t_data_body_record_vypiski {
+  background: white;
+  margin-left: 1px;
+  margin-top: 1px;
+}
+.plategnaya_field {
+  background: white;
+}
+
+.vo_block_t_ {
+ 
+  display: flex; 
+  flex-direction: row; 
+  justify-content: center;
+  background: white;
+}
+.plategnaya_block_t_ {
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+#vo_block_t_total {
+  height: 85%;
+  overflow: auto;
+}
+
+#plategn_div0 {
+   margin-top: 10px;
+   text-align: center;
+   font-size: 30px;
+}
+
+#plategn_div2 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+#plategn_div_ {
+  display: grid;
+  justify-content: center;
+  background: white;
+  color: black;
+}
+
+.vedom_table_div_main {
+  text-align: center;
+  color: black;
+  background: white;
+}
+
+.vedomost_table {
+  display: inline;
+  color: black;
+}
+.clr_gray {
+}
+
+.ta_r {
+  text-align: right;
+}
+.ta_l {
+  text-align: left;
+}
+.p10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.bg {
+  background: gainsboro;
+}
+
+.mr {
+  margin-right: 10px;
+}
+.ml {
+  margin-left: 10px;
+}
+#pv {
+  font-size: 25px;
+}
+.pb {
+  padding-bottom: 10px;
+}
+.pb50 {
+  padding-bottom: 50px;
+}
+.pt {
+  padding-top: 10px;
+}
+
+.fs15 {
+  font-size: 18px;
+}
+.vedom_direc {
+  display: flex;
+  justify-content: center;
+  color: black;
+  background: white;
+}
+
+.mr30 {
+  margin-right: 30px;
+}
+.ml30 {
+  margin-left: 30px;
+}
+.pbt30 {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.lbt30 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#vedomost_for_del {
+  background: white;
+}
