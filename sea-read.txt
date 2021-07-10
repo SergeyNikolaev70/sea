@@ -1,0 +1,1 @@
+sea.sql - script to mysql to sreate database with name sea
