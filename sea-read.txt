@@ -1,1 +1,18 @@
-sea.sql - script to mysql to sreate database with name sea
+db-mysql\sea.sql - script to mysql to sreate database with name sea
+-----------------------------------------------------------------------------------
+server\          - server monitor to SQL to launch: java -jar mysqlcon.jar sea.cfg
+                  sea.cfg: 
+                           192.168.0.151
+                           5050
+                           sea
+                           0
+-----------------------------------------------------------------------------------
+sea.html      - main site
+-----------------------------------------------------------------------------------
+as working:
+
+1. java -jar mysqlcon.jar sea.cfg
+2. press button [run]
+3. sea.html in your browser
+-----------------------------------------------------------------------------------
+It's all
